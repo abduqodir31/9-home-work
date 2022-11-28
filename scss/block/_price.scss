@@ -8,7 +8,8 @@
 .price__main-block {
   display: flex;
   align-items: flex-start;
-  gap: 125px;
+  align-items: flex-start;
+  justify-content: space-between;
 
 }
 .price__middle-number {
